@@ -1,0 +1,7 @@
+footer, header {
+  background-color: #f7f7f5;
+}
+
+header, main, footer, nav {
+  font-family: 'Zhi Mang Xing', cursive;
+}
